@@ -29,26 +29,13 @@ This project demonstrates real-world implementation of:
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshots  
 
-### 🔍 Search Interface
-
-*Add your screenshot here*
-
-```id="img1"
+### 🔍 Search Interface  
 ![Search UI](screenshots/search.png)
-```
 
-### 🛍️ Recommendations Output
-
-```id="img2"
+### 🛍️ Recommendations Output  
 ![Results UI](screenshots/results.png)
-```
-
-> 📌 Create a `screenshots/` folder and paste images there.
-
----
-
 ## ✨ Features
 
 * 🔍 Product search with real-time results
