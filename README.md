@@ -185,8 +185,8 @@ http://127.0.0.1:5000/recommend?product=shoes
 
 **Mamatha Takur**
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
+* GitHub: https:https://github.com/TakurMamatha 
+* LinkedIn: http://www.linkedin.com/in/takur 
 
 ---
 
